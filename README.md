@@ -3,6 +3,8 @@ Notes
 
 PS4 Fimware 6.72
 
+DNS: 165.227.83.145 and 192.241.221.79
+
 https://maxandroid.github.io/linux/
 
 https://www.psxita.it/distro/psxitarch.tar.xz
