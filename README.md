@@ -20,3 +20,5 @@ exec install-hdd.sh (HDD internal)
 resume-boot
 
 exec start-psxitarch.sh
+
+sudo pacman -Syy
