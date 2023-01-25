@@ -13,6 +13,8 @@ https://www.psxita.it/distro/psxitarch.tar.xz (OLD)
 
 https://drive.google.com/u/0/uc?id=1XQiyoJl3x8mCjt2do0o9xVF-yTxFTyAW&export=download (NEWEST)
 
+** https://mega.nz/file/lhhFCAzK#IMCOCXHihX49zjOr6_tWVXeRZehI89o4HNTUASKLsJE ** (password: toor)
+
 exec install-psxitarch.sh (USB)
 
 exec install-hdd.sh (HDD internal)
