@@ -31,4 +31,4 @@ sudo pacman -Syy
 
 sudo pacman -S lutris
 
-emerge -e system
+emerge -e system --keep-going
