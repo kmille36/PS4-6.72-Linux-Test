@@ -28,3 +28,5 @@ exec start-psxitarch.sh
 sudo pacman -Syy
 
 sudo pacman -S lutris
+
+emerge -e system
