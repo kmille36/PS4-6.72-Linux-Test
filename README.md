@@ -17,6 +17,8 @@ https://drive.google.com/u/0/uc?id=1XQiyoJl3x8mCjt2do0o9xVF-yTxFTyAW&export=down
 
 ** https://mega.nz/file/dtQGET5Z#2Q-gWKt0Yjgtn8FCkRTlqs23YFjW2koGFshvfO65uUU ** (STEAM OS NEWEST)
 
+** https://drive.google.com/uc?id=1o5zYErfHAeZnOR1beeN4syeuKW77VDjA&export=download ** (gentoo for SSD)
+
 exec install-psxitarch.sh (USB)
 
 exec install-hdd.sh (HDD internal)
